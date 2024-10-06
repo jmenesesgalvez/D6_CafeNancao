@@ -1,0 +1,19 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "Desafio6",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "author": "jmenega",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "jest": "^28.1.3",
+    "supertest": "^6.3.4"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}
